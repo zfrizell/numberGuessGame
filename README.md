@@ -1,2 +1,2 @@
 # numberGuessGame
-silly simple game using js/html DOM
+silly simple game using js/html DOM from udemy course
